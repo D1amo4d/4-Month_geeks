@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">4-Month_geeks</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="desk">Desk</string>
+    <string name="save">Save</string>
+    <string name="skip">Skip</string>
+    <string name="introduction">Ознакамление</string>
+    <string name="tv_introduction">В нашем приложении вы \nможете заказать все что хотите\n и когда хотите вне зависимости \nгде вы находитесь</string>
+    <string name="get_started">Get Started</string>
+    <string name="falseIsNotEmpty">Пожалуйста, заполните все поля</string>
+</resources>
