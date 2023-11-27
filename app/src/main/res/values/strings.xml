@@ -13,4 +13,7 @@
     <string name="tv_introduction">В нашем приложении вы \nможете заказать все что хотите\n и когда хотите вне зависимости \nгде вы находитесь</string>
     <string name="get_started">Get Started</string>
     <string name="falseIsNotEmpty">Пожалуйста, заполните все поля</string>
+    <string name="print_text">Ведите текст</string>
+    <string name="name">Name</string>
+    <string name="set_text">Set text</string>
 </resources>

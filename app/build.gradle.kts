@@ -58,4 +58,7 @@ dependencies {
     //ViewPagerIndecatir
     implementation ("me.relex:circleindicator:2.1.6")
 
+    //CirclelImageView
+    implementation ("de.hdodenhof:circleimageview:3.1.0")
+
 }

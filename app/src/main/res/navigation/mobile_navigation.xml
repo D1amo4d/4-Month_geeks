@@ -32,4 +32,9 @@
         android:name="com.example.a4_month_geeks.ui.onboardig.OnBoardingFragment"
         android:label="fragment_on_boarding"
         tools:layout="@layout/fragment_on_boarding" />
+    <fragment
+        android:id="@+id/profilerFragment"
+        android:name="com.example.a4_month_geeks.ui.profile.ProfilerFragment"
+        android:label="fragment_profiler"
+        tools:layout="@layout/fragment_profiler" />
 </navigation>
